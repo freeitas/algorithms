@@ -1,4 +1,5 @@
 //Decrementing For Loop
+// Time Complexity = O(n)
 
 function reverseString(str: string) {
   // Step 1. Create an empty string that will host the new created string
